@@ -1,0 +1,1 @@
+este archivo tiene la finalidad de practicar nodejs con pura consola
